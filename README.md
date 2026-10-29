@@ -2,8 +2,6 @@
 
 ## Livrable 4 : Vidéo MVP KONATE
 
-https://github.com/user-attachments/assets/TON_LIEN
+▶ **[Regarder la vidéo (lecteur direct)](https://cgcdkonate28-blip.github.io/SI-EIGSI-26-27-Pointage-et-Presence-du-personnel-Dossier-conception-en-Groupe-et-video-des-MVP/video/)**
 
-
-[Version YouTube](https://youtu.be/Pz0asSd5jQw)
-
+Fichier source : [video/Konate_MVP.mp4](video/Konate_MVP.mp4)
