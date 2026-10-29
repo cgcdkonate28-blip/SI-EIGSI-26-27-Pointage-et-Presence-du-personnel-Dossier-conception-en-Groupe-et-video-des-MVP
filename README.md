@@ -2,4 +2,5 @@
 
 ## Livrable 4 : Vidéo MVP KONATE
 
-COLLE_LE_LIEN_ICI
+https://github.com/user-attachments/assets/TON_LIEN
+
