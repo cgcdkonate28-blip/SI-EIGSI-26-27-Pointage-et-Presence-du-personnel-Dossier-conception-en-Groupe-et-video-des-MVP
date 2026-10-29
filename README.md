@@ -1,7 +1,9 @@
 ﻿# SYSTEM-D-INFORMATION-SI-EIGSI-Pointage-Présence-Personnel (Livrable en groupe)
 
-## Livrable 4 : Vidéo MVP KONATE
+## Livrable 4 : Vidéos des MVP
 
-▶ **[Regarder la vidéo (lecteur direct)](https://cgcdkonate28-blip.github.io/SI-EIGSI-26-27-Pointage-et-Presence-du-personnel-Dossier-conception-en-Groupe-et-video-des-MVP/video/)**
+Les vidéos sont dans le dossier [Livrable_4](Livrable_4). Cliquer sur une vidéo, puis sur « View raw » ou sur l'icône de téléchargement pour la lire.
 
-Fichier source : [video/Konate_MVP.mp4](video/Konate_MVP.mp4)
+- KONATE CHECK CHRIS MVP
+- mohamed Lehbib MVP
+- Chris Esdrass Ikemba MVP
