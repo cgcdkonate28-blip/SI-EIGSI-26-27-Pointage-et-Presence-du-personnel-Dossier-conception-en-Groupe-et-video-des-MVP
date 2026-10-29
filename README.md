@@ -2,4 +2,4 @@
 
 ## Vidéos de démonstration des MVP
 
-Les vidéos sont dans le dossier [demo](demo) (une par étudiant). Cliquer sur le fichier puis télécharger pour le lire.
+Les vidéos sont dans le dossier [demo](demo), une par étudiant. Cliquer sur le fichier puis le télécharger pour le lire.
